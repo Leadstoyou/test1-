@@ -1,0 +1,14 @@
+{
+  "name": "leadstoyou",
+  "version": "1.0.0",
+  "description": "Little server in node js",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "little-web"
+  ],
+  "author": "Leadstoyou",
+  "license": "ISC"
+}
